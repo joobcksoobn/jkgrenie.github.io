@@ -2,34 +2,29 @@
 
 ![image](https://raw.githubusercontent.com/joobcksoobn/jkgrenie.github.io/gh-pages/jackson_grenier.jpg)
 
-Third Year Computer Science Major at UCSD
+_Third Year Computer Science Major at UCSD_
 
 Seeking internship in Software Engineering
 
 [view resume](https://docs.google.com/document/d/1RBsk8nQxigbObjh7UULel5mUdyGBaLqBXTjOFfwa_WY/edit?usp=sharing) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Facts
 
-### Markdown
+In 1956 Laika the space dog is quoted as saying:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Woof
 
-```markdown
-Syntax highlighted code block
+wow an icon
 
-# Header 1
-## Header 2
-### Header 3
+Among the programs in my portfolio is the hello world program
 
-- Bulleted
-- List
+```C++
+#include<iostream>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+int main() {
+  std::cout << "Hello World!";
+  return 0;
+}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
