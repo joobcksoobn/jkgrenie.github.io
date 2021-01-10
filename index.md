@@ -8,6 +8,8 @@ Seeking internship in Software Engineering
 
 [view resume](https://docs.google.com/document/d/1RBsk8nQxigbObjh7UULel5mUdyGBaLqBXTjOFfwa_WY/edit?usp=sharing) 
 
+[See My Code](#coding-expertise)
+
 ### Facts
 
 In 1956 Laika the space dog is quoted as saying:
@@ -16,7 +18,9 @@ In 1956 Laika the space dog is quoted as saying:
 
 wow an icon
 
-Among the programs in my portfolio is the hello world program
+### Coding Expertise
+
+Among the programs in my portfolio is the **hello world** program
 
 ```C++
 #include<iostream>
