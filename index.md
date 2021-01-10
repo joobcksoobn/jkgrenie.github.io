@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Jackson Grenier
 
-You can use the [editor on GitHub](https://github.com/joobcksoobn/jkgrenie.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Third Year Computer Science Major at UCSD
+
+Seeking internship in Software Engineering
+
+[view resume](https://docs.google.com/document/d/1RBsk8nQxigbObjh7UULel5mUdyGBaLqBXTjOFfwa_WY/edit?usp=sharing) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
