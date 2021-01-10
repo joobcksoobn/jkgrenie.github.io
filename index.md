@@ -31,16 +31,15 @@ int main() {
 }
 ```
 
+### Why is this Assignment Late?
+
 reasons this assignment is late
 
 1. Coming up with things to put on the page
 2. Thinking the due date was a day later
 3. other great decisions
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joobcksoobn/jkgrenie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Goals for next time
+- [x] Start Early
+- [ ] Start Often
+- [ ] Finish Early
