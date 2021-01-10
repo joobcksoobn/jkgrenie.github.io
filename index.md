@@ -31,7 +31,11 @@ int main() {
 }
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+reasons this assignment is late
+
+1. Coming up with things to put on the page
+2. Thinking the due date was a day later
+3. other great decisions
 
 ### Jekyll Themes
 
