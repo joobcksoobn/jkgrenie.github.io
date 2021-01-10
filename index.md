@@ -1,5 +1,7 @@
 ## Jackson Grenier
 
+![image](https://raw.githubusercontent.com/joobcksoobn/jkgrenie.github.io/gh-pages/jackson_grenier.jpg)
+
 Third Year Computer Science Major at UCSD
 
 Seeking internship in Software Engineering
